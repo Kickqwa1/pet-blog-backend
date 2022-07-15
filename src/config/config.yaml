@@ -1,0 +1,13 @@
+http:
+  host: 'localhost'
+  port: 3030
+db:
+  postgres:
+    type: 'postgres'
+    host: 'localhost'
+    port: 5432
+    username: 'postgres'
+    password: 'qwaqwa123'
+    database: 'pet-blog'
+    entities: []
+    synchronize: true
